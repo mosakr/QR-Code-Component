@@ -28,11 +28,12 @@ h1 {
     margin: 05px 25px 15px;
 }
 
-h3 {
+h2 {
     font-weight: 400;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     color: hsl(220, 15%, 55%);
-    margin: 0px 50px;
+    margin: 0px 40px;
+    line-height: 15px;
     padding-bottom: 40px;
 }
 
